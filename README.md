@@ -1,4 +1,5 @@
 # doubletrouble
 Song recognition 
-welcome to the doubletrouble readme
-welcome welcome welcome
+
+checkout this deja vu package Kenneth
+https://github.com/worldveil/dejavu/blob/master/README.md 
